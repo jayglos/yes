@@ -1,0 +1,73 @@
+#title{
+  background-color: #fff;
+}
+#picture{
+  background-color: orange;
+}
+h1{
+  font-family: sans-serif ;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+  padding:35px 0;
+}
+.contact{
+background-color: orange;
+
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+.nav-link{
+  color: #000;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 1.2rem;
+
+}
+.nav-lin{
+
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 1.2rem;
+
+}
+.navbar-brand{
+  color: #000;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 1.2rem;
+
+}
+.nav-item{
+  padding:0 18px;
+  padding-bottom: 6.5rem
+}
+.download-button{
+  margin:5% 3% 5% 0;
+}
+.title-image{
+  width: 45%;
+  margin: 7%  25%;
+  }
+
+.featured-image{
+  width: 150px;
+
+  }
+  .table{
+    margin-left:7%;
+  }
+
+.h3{
+  font-family: sans-serif ;
+  font-weight: bold;
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+.social-icon{
+  margin:20px 12px;
+  font-size:40px;
+}
